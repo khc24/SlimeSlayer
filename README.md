@@ -12,7 +12,7 @@
 ---
 
 ## 🎥 시연 동영상
-[YOUTUBE](https://www.youtube.com/watch?v=CvdPoT4hSHE)
+[YOUTUBE](https://www.youtube.com/watch?v=CvdPoT4hSHE](https://youtu.be/h66sKDTNSVk)
 
 ---
 
