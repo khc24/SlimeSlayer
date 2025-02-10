@@ -1,0 +1,5 @@
+IDX,NAME,KNAME,MODEL
+1,ShopMan,상점 주인,/Prefab_ShopMan
+2,UpgradeMan,강화 상점 주인,/Prefab_UpgradeMan
+3,GambleMan,뽑기 상점 주인,/Prefab_GambleMan
+4,KingMan,왕,/Prefab_KingMan

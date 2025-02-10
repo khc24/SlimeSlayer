@@ -1,0 +1,11 @@
+IDX,SKILLNUMBER,MAXLEVEL,NAME,EXPLAIN,NUMBER,ATTACK,ATTACKPERCENT,SPEED,SPEEDPERCENT,MODEL,BEFORE
+1,1,30,베기,검기를 발사한다.,1,90,10,5,1,Prefab/Skill/Skill_Sword,
+2,1,30,연속 베기,검기른 연속으로 발사한다.,1,100,20,5,1,Prefab/Skill/Skill_DoubleSword,
+3,1,30,Goble_Attack,단도를 투척한다.,1,90,10,5,1,Prefab/Skill/Skill_GoblinKnife,
+4,1,30,매직 미사일,마력 덩어리를 발사한다.,1,100,3,5,1,Prefab/Skill/Skill_Missile,
+5,1,30,영혼 미사일,저주받은 영혼을 발사한다.,1,100,3,5,1,Prefab/Skill/Skill_Dark01,
+6,2,30,영혼 기둥,저주받은 영혼 무리를 소환하여 다수의 적을 공격한다.,2,100,4,5,1,Prefab/Skill/Skill_Dark02,5@5
+7,3,40,호박 소환,호박 유령을 소환하여 다수의 적을 공격한다.,1,100,5,5,1,Prefab/Skill/Skill_Dark03,6@10
+8,1,30,바람 칼날 ,바람으로 칼날을 만들어 날린다.,1,100,2,5,1,Prefab/Skill/Skill_Wind01,
+9,2,30,양손 베기,좌우 동시에 검을 휘둘러 다수의 적을 공격한다.,2,100,3,5,1,Prefab/Skill/Skill_Wind02,8@5
+10,3,40,바람의 상처,날카로운 바람을 두른 검을 크게 휘둘러 다수의 적을 공격한다.,1,100,4,5,1,Prefab/Skill/Skill_Wind03,9@10
