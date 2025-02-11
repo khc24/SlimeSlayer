@@ -1,7 +1,7 @@
-# Slime Slayer
+# Slime Slayer **(개인 프로젝트)**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khc24/SlimeSlayer/main/slimeslayer.png" width="600">
+  <img src="https://raw.githubusercontent.com/khc24/SlimeSlayer/main/slimeslayer.gif" alt="GIF 설명">
 </div>
 
 
@@ -12,8 +12,8 @@
 ---
 
 ## 🎥 시연 동영상
-![GIF 설명](https://raw.githubusercontent.com/khc24/SlimeSlayer/main/slimeslayer.gif)
-[YOUTUBE](https://youtu.be/h66sKDTNSVk)
+
+<a href="https://youtu.be/h66sKDTNSVk">YOUTUBE</a>
 
 ---
 
@@ -39,5 +39,8 @@
 - 조이스틱 조작
 - 배경음악 & 효과음
 - 데이터 저장 및 불러오기
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khc24/SlimeSlayer/main/slimeslayer.png" width="600">
+</div>
 
 
