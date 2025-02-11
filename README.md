@@ -12,6 +12,7 @@
 ---
 
 ## 🎥 시연 동영상
+![GIF 설명](https://raw.githubusercontent.com/khc24/SlimeSlayer/main/slimeslayer.gif)
 [YOUTUBE](https://youtu.be/h66sKDTNSVk)
 
 ---
